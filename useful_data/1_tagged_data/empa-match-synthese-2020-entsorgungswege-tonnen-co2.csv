@@ -1,0 +1,343 @@
+T_Y;Oberkategorie;Kategorie;Standort;Sektor;Untersektor;TAG_CO2-eq./a_Schweiz;TAG/a_Schweiz;TAG_CO2-eq./a_Stadt_St.Gallen;TAG/a_Stadt_St.Gallen
+2018;Energie;Brennstoff;Schweiz;Bau;"Kompost/
+Biogas";0.0 t;0 t;0.0 t;0.0 t
+2018;Energie;Elektrizität;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Bau;Deponie;10.67325949;310;0.09468465906044823;2.7500731464684884
+2018;Übrige Materialien;Aluminium;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Bau;Recycling;8134.0;1973075;72.15837088185383;17503.550236994557
+2018;Übrige Materialien;Stahl;Schweiz;Bau;Recycling;24307.23933;494307;215.63447143940544;4385.098086488385
+2018;Übrige Materialien;Stahl;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Mobilität;Verbrennung;9.230209764;0;0.08188307099434723;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Mobilität;Recycling;2607.7452;7006;23.133838862426124;62.151653110187844
+2018;Übrige Materialien;Holz, Papier;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Mauerwerk;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Mobilität;Deponie;23.74360857;4334;0.21063438815682603;38.44779682836912
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Produktion und Konsum;Recycling;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Produktion und Konsum;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Produktion und Konsum;Deponie;58.0363042;4750;0.5148518764538592;42.13821756685587
+2018;Übrige Materialien;Asphalt;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Produktion und Konsum;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Produktion und Konsum;Recycling;165.4423257;28877;1.4676725716027854;256.17374919538884
+2018;Übrige Materialien;Mauerwerk;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Mauerwerk;Schweiz;Produktion und Konsum;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Produktion und Konsum;Deponie;65.25185616;7941;0.578862507686582;70.44622856808473
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Produktion und Konsum;Recycling;0.0;147891;0.0;1311.9711861431329
+2018;Energie;Brennstoff;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Bau;Recycling;10188.0;2485514;90.37982327813214;22049.500988940254
+2018;Übrige Materialien;Beton;Schweiz;Bau;Deponie;5424.0;987664;48.117408859500266;8761.768529463397
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Bau;Recycling;143.0;36865;1.268582128854819;327.036924337293
+2018;Übrige Materialien;Holz, Papier;Schweiz;Bau;Deponie;55.0;11208;0.4879162034056996;99.42845105038329
+2018;Übrige Materialien;Holz, Papier;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Mobilität;Recycling;520.8278432;3589;4.620369888765873;31.838750073146468
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Mobilität;Deponie;2661.754256;4193;23.612964199754227;37.19695710691088
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Mobilität;Recycling;4070.785849;19480;36.11277047857686;172.8110480426005
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Mobilität;Deponie;724.0090438;1141;6.422831706950669;10.122043419743695
+2018;Übrige Materialien;Holz, Papier;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Mauerwerk;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Mauerwerk;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Produktion und Konsum;Recycling;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";131067.584;2037897;1162.7272359061385;18078.599403124816
+2018;Nahrung;Nahrung für Menschen;Schweiz;Produktion und Konsum;Recycling;0.0;476352;0.0;4225.815624085669
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Produktion und Konsum;Deponie;1551.272008;188775;13.76164997441629;1674.6614781438352
+2018;Übrige Materialien;Holz, Papier;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Produktion und Konsum;Recycling;10609.25305;25209;94.11684489320615;223.63417403007782
+2018;Übrige Materialien;Mauerwerk;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Mauerwerk;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Produktion und Konsum;Recycling;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Bau;Deponie;6520.0;1191975;57.840248112821115;10574.253028263794
+2018;Übrige Materialien;Kunststoff;Schweiz;Bau;Recycling;0.0;39474;0.0;350.18189478611976
+2018;Übrige Materialien;Mauerwerk;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Mauerwerk;Schweiz;Bau;Deponie;2082.0;380300;18.4698460998303;3373.7187664579556
+2018;Übrige Materialien;Mauerwerk;Schweiz;Bau;Recycling;5136.0;1521200;45.56250219439406;13494.875065831822
+2018;Übrige Materialien;Stahl;Schweiz;Bau;Deponie;37.8124834;10088;0.33544224257943706;89.49270290830358
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Mobilität;Recycling;1807.837957;15304;16.037698770039206;135.76490139856048
+2018;Übrige Materialien;Andere Metalle;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Mobilität;Verbrennung;2622.751363;1072;23.266961591128794;9.509930364561999
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Mobilität;Deponie;19.23080794;3510;0.17060041451834512;31.137924980981918
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Mobilität;Recycling;1.208924948;228;0.01072461946964714;2.022634443209082
+2018;Übrige Materialien;Kies, Sand;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Mobilität;Verbrennung;56152.25291;23166;498.1380736822518;205.51030487448065
+2018;Übrige Materialien;Mauerwerk;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Mobilität;Verbrennung;241.9640585;0;2.1465124506173563;0.0
+2018;Wasser;Wasser;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Produktion und Konsum;Verbrennung;191594.1043;373833;1699.6703266358477;3316.348692141143
+2018;Übrige Materialien;Aluminium;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Produktion und Konsum;Verbrennung;24617.67192;48033;218.38838217988177;426.11052723974484
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Holz, Papier;Schweiz;Produktion und Konsum;Recycling;61642.57564;1217539;546.8438449894084;10801.036479606764
+2018;Übrige Materialien;Kies, Sand;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Produktion und Konsum;Deponie;312.5319303;38032;2.7725344159096497;337.3896190531921
+2018;Übrige Materialien;Stahl;Schweiz;Produktion und Konsum;Recycling;5036.056082;496822;44.67587933941132;4407.409163789573
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Bau;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Bau;Recycling;6861.159318;15174;60.86674191636725;134.61164491778337
+2018;Übrige Materialien;Andere Metalle;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Bau;Recycling;4187.601353;32189;37.149064609678746;285.55517584411024
+2018;Übrige Materialien;Asphalt;Schweiz;Bau;Deponie;2794.0;509081;24.78614313300954;4516.161249926853
+2018;Übrige Materialien;Asphalt;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Bau;Recycling;31533.0;5596761;279.735666218035;49650.00688161975
+2018;Übrige Materialien;Beton;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Bau;Deponie;2356.0;433114;20.900555913160513;3842.242518579203
+2018;Übrige Materialien;Kunststoff;Schweiz;Bau;Verbrennung;101598.0;90227;901.2965533384048;800.422096085201
+2018;Übrige Materialien;Mauerwerk;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Mobilität;Deponie;19.12069291;449;0.16962356165697232;3.9831704605301654
+2018;Übrige Materialien;Aluminium;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Mobilität;Deponie;4.378186347;110;0.03883978291328925;0.9758324068113992
+2018;Übrige Materialien;Asphalt;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Asphalt;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Mobilität;Verbrennung;111.0276233;112;0.9849486624308034;0.99357481420797
+2018;Übrige Materialien;Holz, Papier;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Mobilität;Recycling;294.4473586;1502;2.612102496562701;13.324547954824741
+2018;Übrige Materialien;Mauerwerk;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Produktion und Konsum;Recycling;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Produktion und Konsum;Verbrennung;24877.05554;48539;220.68942710890045;430.5993563110773
+2018;Übrige Materialien;Aluminium;Schweiz;Produktion und Konsum;Recycling;2526.750336;64739;22.415316925367197;574.3128562233015
+2018;Übrige Materialien;Andere Metalle;Schweiz;Produktion und Konsum;Recycling;906.0248386;13972;8.037530898926795;123.94845807244427
+2018;Übrige Materialien;Andere Metalle;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Produktion und Konsum;Deponie;9.970368612;4320;0.08844917090404353;38.32359997659313
+2018;Übrige Materialien;Beton;Schweiz;Produktion und Konsum;Recycling;1.150150385;377;0.010203218348996432;3.3444437942536136
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Produktion und Konsum;Deponie;0.068301984;8;0.0006059208130610333;0.07096962958628357
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Produktion und Konsum;Recycling;172710.3952;120815;1532.149096630581;1071.7744748083562
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Produktion und Konsum;Verbrennung;475349.0833;927488;4216.918545747557;8227.934975715372
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Produktion und Konsum;Recycling;4415.911657;217298;39.174451822880215;1927.694821230031
+2018;Übrige Materialien;Holz, Papier;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Holz, Papier;Schweiz;Produktion und Konsum;Verbrennung;825691.676;1611066;7324.8790497747095;14292.09465738194
+2018;Übrige Materialien;Kies, Sand;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Produktion und Konsum;Deponie;1434.178515;331083;12.722889746269532;2937.1047340394402
+2018;Übrige Materialien;Kunststoff;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Produktion und Konsum;Abwasser;260532.3235;629959953;2311.2353117561;5588503.064825326
+2018;Energie;Treibstoff;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Bau;Deponie;6.514257112;657;0.05778930178355667;5.828380829773538
+2018;Übrige Materialien;Andere Metalle;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Beton;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Bau;Deponie;0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Glas, Keramik;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Holz, Papier;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Holz, Papier;Schweiz;Bau;Recycling;0.0;37361;0.0;331.4370413716426
+2018;Übrige Materialien;Holz, Papier;Schweiz;Bau;Verbrennung;3720.0;325043;33.000877757621865;2883.522663701797
+2018;Übrige Materialien;Kies, Sand;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Bau;Deponie;55.0;11278;0.4879162034056996;100.04943530926327
+2018;Übrige Materialien;Kunststoff;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Mauerwerk;Schweiz;Bau;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Bau;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Bau;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Aluminium;Schweiz;Mobilität;Verbrennung;39.73327212;0;0.3524819505759261;0.0
+2018;Übrige Materialien;Beton;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Mobilität;Verbrennung;1337.495537;20940;11.86519535427468;185.76300544209724
+2018;Übrige Materialien;Holz, Papier;Schweiz;Mobilität;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Holz, Papier;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Mobilität;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Mobilität;Deponie;73.71447441;739;0.6539361180031599;6.555819533032945
+2018;Übrige Materialien;Stahl;Schweiz;Mobilität;Recycling;8762.806095;147731;77.73663783732226;1310.5517935514072
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Mobilität;Deponie;0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Mobilität;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Wasser;Wasser;Schweiz;Mobilität;Recycling;0.0;0;0.0;0.0
+2018;Energie;Brennstoff;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Energie;Elektrizität;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Energie;Treibstoff;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Nahrung;Nahrung für Menschen;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
+2018;Nahrung;Tierfutter, Tiere;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";37873.74218;588878;335.98568169512555;5224.056691438937
+2018;Übrige Materialien;Aluminium;Schweiz;Produktion und Konsum;Deponie;161.8534557;22009;1.4358349747861199;195.24632219556437
+2018;Übrige Materialien;Aluminium;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Andere Metalle;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Chemische Grundstoffe;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Produktion und Konsum;Deponie;394.7167366;48033;3.501612573501083;426.11052723974484
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Elektronik, Batterien;Schweiz;Produktion und Konsum;Recycling;159637.317;168078;1416.1751569547664;1491.0541752004215
+2018;Übrige Materialien;Holz, Papier;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kies, Sand;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Kunststoff;Schweiz;Produktion und Konsum;Verbrennung;395816.9728;772307;3511.37299294751;6851.292714611739
+2018;Übrige Materialien;Mauerwerk;Schweiz;Produktion und Konsum;Verbrennung;0.0;0;0.0;0.0
+2018;Übrige Materialien;Stahl;Schweiz;Produktion und Konsum;"Kompost/
+Biogas";0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Produktion und Konsum;Abwasser;0.0;0;0.0;0.0
+2018;Übrige Materialien;Textilien, Leder;Schweiz;Produktion und Konsum;Verbrennung;131584.5161;256744;1167.313045863421;2277.628322312599
+2018;Wasser;Wasser;Schweiz;Produktion und Konsum;Deponie;0.0;0;0.0;0.0
